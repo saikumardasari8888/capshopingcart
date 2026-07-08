@@ -28,7 +28,7 @@
 					<Title
 						level="H2"
 						tooltip="{i18n>welcomeDescription}"
-						text="{i18n>welcomeHeadline}"/>
+						text="{i18n>welcomeHeadline} ReleaseOwl"/>
 				</contentMiddle>
 				<contentRight>
 					<Button
