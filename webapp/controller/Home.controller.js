@@ -92,7 +92,9 @@ sap.ui.define([
 				productId: oEntry.ProductId
 			}, !Device.system.phone);
 		},
-
+		onSearch1() {
+			this._search();
+		},
 		/**
 		 * Always navigates back to home
 		 * @override
