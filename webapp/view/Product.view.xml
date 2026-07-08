@@ -27,7 +27,7 @@
 				<contentMiddle>
 					<Title
 						level="H2"
-						text="{Name}"/>
+						text="Producat: {Name}"/>
 				</contentMiddle>
 				<contentRight>
 					<Button
